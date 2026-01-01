@@ -45,7 +45,8 @@ C/C++ • Python • ARM64/Aarch64 Assembly • x86/x64 Assembly • Go • Powe
 
 **Offensive Security Tools**
 ```
-Cobalt Strike • Metasploit • Sliver C2 • BloodHound • Mimikatz • Impacket • CrackMapExec • NetExec • Burp Suite • SQLMap • Nmap • Responder • Empire • Covenant • Havoc C2
+Cobalt Strike • Metasploit • Sliver C2 • BloodHound • Mimikatz • Impacket • CrackMapExec
+NetExec • Burp Suite • SQLMap • Nmap • Responder • Empire • Covenant • Havoc C2
 ```
 
 **Specializations**
@@ -67,7 +68,7 @@ Container Security (Docker, Kubernetes) • SIEM Operations (Splunk)
 - **[Significance of Cloud Security Policies and Practices in Corporations and Organizations](https://www.researchtrend.net/ijet/pdf/48%20Significance%20of%20Cloud%20Security%20Policies%20and%20Practices%20in%20Corporations%20and%20Organizations-2931-CSE-Nishant%20Kumar.pdf)** - IJET 11(5): 320-329 (2020)
 
 ### 🎓 Capstone Research
-- **Assessing PiKVM as a Threat in Modern Organizations** - Analyzed weaponization of Raspberry Pi-based KVMs by APT groups, developed 5+ detection/remediation guidelines.
+- **Assessing PiKVM as a Threat in Modern Organizations** - Analyzed weaponization of Raspberry Pi-based KVMs by APT groups, developed 5+ detection/remediation guidelines. More on my [LinkedIn](https://www.linkedin.com/in/pratikdas-cy/) profile.
 
 ---
 
