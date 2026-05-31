@@ -8,7 +8,7 @@ Welcome to my GitHub profile.
 
 I'm an offensive security professional with 3 years of hands-on experience conducting red team operations, penetration testing, and adversarial emulation across enterprise, government, and industrial control environments. Graduated with MS in Cybersecurity from Northeastern University.
 
-Currently working as Offensive Security Engineer II at **Samsung Research America** along with the Pen Test team to improve their AI and web security stance.
+Currently working as Offensive Security Engineer II at **Samsung Research America** in Moble Platform Services team to improve their AI and web security stance.
 
 Previously: Security Consultant at **Ernst & Young**, Cybersecurity Consultant for **Government of India** (commended by PM's Office 2021), and Cybersecurity Consultant Co-op at **Factory Mutual**.
 
